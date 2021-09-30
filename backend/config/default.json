@@ -1,0 +1,7 @@
+{
+   "mongoURI": "mongodb+srv://user_1:ro242530@cluster0.cbxoc.gcp.mongodb.net/aulahoracodigo?retryWrites=true&w=majority",
+"jwtSecret":"<secret>",
+"githubToken": "<yoursecrectaccestoken>"
+}
+
+
